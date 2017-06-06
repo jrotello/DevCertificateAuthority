@@ -1,0 +1,8 @@
+$ENV:__CERT_COUNTRY             = "US"
+$ENV:__CERT_STATE_PROVINCE      = "Illinois"
+$ENV:__CERT_CITY                = "Roscoe"
+$ENV:__CERT_ORG_NAME            = "Screw City Software"
+$ENV:__CERT_ORG_UNIT_NAME       = "N/A"
+$ENV:__CERT_COMMON_NAME         = "N/A"
+$ENV:__CERT_EMAIL_ADDRESS       = "N/A"
+$ENV:__CERT_SUBJECT_ALT_NAME    = "N/A"

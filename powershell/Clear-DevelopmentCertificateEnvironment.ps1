@@ -1,0 +1,1 @@
+Remove-Item ENV:\__CERT_* -ErrorAction Ignore
